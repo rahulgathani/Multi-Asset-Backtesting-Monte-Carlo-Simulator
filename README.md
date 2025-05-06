@@ -17,6 +17,3 @@ This project provides a complete quantitative finance toolkit for:
 - SciPy, Scikit-learn
 - Jupyter Notebook
 
-## 🔗 How to View
-- [View on GitHub](https://github.com/yourusername/Multi-Asset-Backtesting-Monte-Carlo-Simulator)
-- [Open in Colab](https://colab.research.google.com/github/yourusername/Multi-Asset-Backtesting-Monte-Carlo-Simulator/blob/main/YourNotebook.ipynb)
